@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "B2aElCiR+8popF7pbtqlh0i5BWI/Y7/oU6e+oqM0OSA=",
+  "Source": "MVC_Example",
+  "BasePath": "_content/MVC_Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_Example/wwwroot",
+      "Source": "MVC_Example",
+      "ContentRoot": "/Users/ahmetguvendik/Desktop/untitled folder/Project/MVC_Example/MVC_Example/wwwroot/",
+      "BasePath": "_content/MVC_Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

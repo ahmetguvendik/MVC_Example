@@ -15,6 +15,7 @@ app.Run();
 
 //Controller : Projede verileri modelden alarak view e aktarir.
 //Action : Controller icindeki fonksiyonlara denir.
+//Model : Uygulamadaki verileri temsil eder
 //View : Sayfamizin tasarimini yaptigimiz yerdir.
 //Razior - RazorView : Bir projeden html ve c# in birlikte kullanilarak bir frontend yapmasini saglamaktadir.
 //wwwroot : js css ve jpeg gibi statik dosyalarin tutuldugu klasordur.
